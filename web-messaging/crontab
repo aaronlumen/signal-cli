@@ -1,0 +1,1 @@
+*/5 * * * * /var/www/html/signal-parsing-webmessaging.sh
